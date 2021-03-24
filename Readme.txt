@@ -9,3 +9,5 @@ My name is Chau
 Chau said : Hello class
 
 Chau testing GIT
+
+Chau Test GIT 2
