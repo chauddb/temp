@@ -12,3 +12,5 @@ Chau testing GIT
 
 Chau Test GIT 2
 Chau Test GIT 3
+
+Chau Test GIT 4
